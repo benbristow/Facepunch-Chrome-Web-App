@@ -1,0 +1,18 @@
+{
+  "name": "Facepunch",
+  "manifest_version": 2,
+  "description": "Facepunch, now just a click away",
+  "version": "1",
+  "app": {
+    "launch": {
+      "web_url": "http://www.facepunch.com"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
